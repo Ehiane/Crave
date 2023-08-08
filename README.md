@@ -6,13 +6,11 @@ From the beloved Nigerian 5-star delicacy, [**`Beans and Dodo`**](https://thebla
 
 ## Demo
 ### Desktop view
-<video src="https://github.com/Ehiane/Crave/assets/79903725/3e78df8a-e1a8-4835-a601-ce09e38e2135" controls autoplay width="200px">
+<video src="https://github.com/Ehiane/Crave/assets/79903725/3e78df8a-e1a8-4835-a601-ce09e38e2135" controls autoplay width="100">
         <p>Your browser does not support this video</p>
     </video>
 
 ### Mobile view
-
-
 
 https://github.com/Ehiane/Crave/assets/79903725/913c91be-e055-4bee-8781-755bf884578c
 
@@ -32,14 +30,14 @@ https://github.com/Ehiane/Crave/assets/79903725/913c91be-e055-4bee-8781-755bf884
 
 
 ## Authors
+|                     Author(s)                                     | Avatar | Contribution |
+| ---------------------------------------------------------------| ----- | ------------ |
+| <a href="https://github.com/theblaisecode">theblaisecode: </a> | <img align="center" src="https://github.com/Ehiane/Crave/assets/79903725/b071dab4-d2f0-455a-b81e-1df4cea14648" height="40" width="40"> | Website Development and Styling |
+| <a href= "https://github.com/Ehiane" >Ehiane: </a>             | <img align="center" src="https://github.com/Ehiane/100_days_of_code_in_python-Projects/assets/79903725/55af3614-5f7d-4774-be46-e26a1d98f97d" height="40" width="40" /></a> | Readme Creation | 
 
-**Designer**
-- Twitter - [@SadohDennisFr](https://twitter.com/SadohDennisFr)
 
-<br/>
 
-**Developer**
+## Socials 
+<a href="https://twitter.com/theblaisecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_ehiane" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/theblaisecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehiane oigiagbe" height="30" width="40" />
 
-- Github - [@theblaisecode](https://github.com/theblaisecode)
-- Twitter - [@theblaisecode](https://twitter.com/theblaisecode)
-- LinkedIn - [@theblaisecode](https://www.linkedin.com/in/theblaisecode)
